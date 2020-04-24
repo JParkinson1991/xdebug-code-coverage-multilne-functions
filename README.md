@@ -1,4 +1,4 @@
-# Reproducible Bug: Xdebug Code Covered Nested Multiline Functions
+# Reproducible Bug: Xdebug code coverage within nested multi-line functions.
 
 Issue URL: https://bugs.xdebug.org/view.php?id=1779
 
