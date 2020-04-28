@@ -1,5 +1,7 @@
 # Reproducible Bug: Xdebug code coverage within nested multi-line functions.
 
+### Resolved in [Xdebug 2.9.5](https://xdebug.org/announcements/2020-04-25)
+
 Issue URL: https://bugs.xdebug.org/view.php?id=1779
 
 ## Bug Description
